@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SickCrisp
-- 👀 I’m interested in becoming a full-stack software engineer
-- 🌱 I’m currently learning AI/ML at Colorado State University for my Master of Science, and focusing on Swift as my first language
-- 💞️ I’m looking to collaborate on Swift, SwiftUI, and Python
+- 👀 I’m interested in becoming a Back-end software engineer
+- 🌱 I’m currently learning AI/ML at Colorado State University for my Master of Science, and focusing on Swift and Python as my first two languages
+- 💞️ I’m looking to collaborate on Python and Swift
 - 🇺🇸 I currently live in the Las Vegas Metropolitan area with my wife, two kids, and my pup - Luca
 - 📫 How to reach me: I can be contacted through my LinkedIn. Please see my profile for the link
 - ⚡ Fun fact: I was previously in the United States Air Force for ten years where I specialized in F-15 fighter aircraft as an Avionics Craftsman. While I was
