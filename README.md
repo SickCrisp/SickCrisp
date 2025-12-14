@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SickCrisp
 - 👀 I’m interested in becoming a Back-end software engineer
-- 🌱 I’m currently learning AI/ML at Colorado State University for my Master of Science, and focusing on Swift and Python as my first two languages
+- 🌱 Completed my MSAI/ML at Colorado State University
 - 💞️ I’m looking to collaborate on Python and Swift
 - 🇺🇸 I currently live in the Las Vegas Metropolitan area with my wife, two kids, and my pup - Luca
 - 📫 How to reach me: I can be contacted through my LinkedIn. Please see my profile for the link
